@@ -1,4 +1,19 @@
-.venv/
+# Python
+__pycache__/
+*.pyc
+
+# Data
+input/
+output/
+
+# Excel
+*.xlsx
+
+# CSV
+*.csv
+
+# Virtual env
+.venv/.venv/
 output/
 __pycache__/
 *.pyc
